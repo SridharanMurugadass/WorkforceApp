@@ -18,7 +18,7 @@ Note : Please use java version > 8. since the application written in spring boot
 
 Demo Testing :
 
-    i have deployed this application in cloud for testing purposes. please use the below url in restclient tools like postman, ADC or bloomberg,.. 
+    i have deployed this application in cloud for testing purposes. please use the below url in restclient tools like postman, ADC or insomnia,.. 
     
     
     Demo url        : https://workforce-app.herokuapp.com/data
@@ -38,8 +38,8 @@ Demo Testing :
     {
         "Junior": 0,
         "Senior": 2
-    }
-]
+    }]
+
 
 
   You can try with any kind of input values in the service request. And you will get the appropriate result as per your input data. Cool (:
